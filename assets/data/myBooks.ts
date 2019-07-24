@@ -5,7 +5,7 @@ export const MYBOOKS: Book[]=
         bauthor: 'Franklin W.Dixon',
         bbookgenre: 'Mystery',
         byearpublished: '1931',
-        bpitcure: '../assets/images/hardy.jpg'},
+        bpitcure: 'assets/images/hardy.jpg'},
 
         {bbookname: 'Five Run Away Together',
         bauthor: 'Enid Blyton',
